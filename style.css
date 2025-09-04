@@ -5,8 +5,8 @@ body {
   background-size: cover;
   font-family: 'Comic Sans MS', cursive, sans-serif;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   height: 100vh;
 }
 
